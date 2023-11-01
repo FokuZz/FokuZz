@@ -9,7 +9,7 @@ ___
 ___
 
 My latest projects: <br>
-[FokuZz/Postal-package](https://github.com/FokuZz/java-postal-package/) - backend postal service
+[FokuZz/Postal-package](https://github.com/FokuZz/java-postal-package/) - backend postal service. <br>
 [FokuZz/Explore-with-me](https://github.com/FokuZz/java-explore-with-me) - backend multiservice application for events guide.<br>
 [FokuZz/Share-it](https://github.com/FokuZz/java-shareit) - backend application for sharing different staff.<br>
 [FokuZz/Filmorate](https://github.com/FokuZz/java-filmorate) - backend IMDB-like application.<br>
