@@ -1,17 +1,18 @@
-## Hi! 👋 I am Artem!
-I am a 22-year-old Java developer who came to the profession from bartending.<br>
-I am currently learning Java and algorythms and and data structures. <br>
-I like music, games and sport.<br>
+## Hey, I'm Artem 👋
+
+Backend developer. Java, Spring, the usual suspects.
+3+ years in prod — fintech, manufacturing, real systems under real load.
+
+I like problems that don't have an obvious answer.
+Legacy doesn't scare me. Microservices do make sense to me.<br>
 ___
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=FokuZz&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Artem's github stats"/>
 </p>
 ___
 
-My latest projects: <br>
-[FokuZz/Postal-package](https://github.com/FokuZz/java-postal-package/) - backend postal service. <br>
-[FokuZz/Explore-with-me](https://github.com/FokuZz/java-explore-with-me) - backend multiservice application for events guide.<br>
-[FokuZz/Share-it](https://github.com/FokuZz/java-shareit) - backend application for sharing different staff.<br>
-[FokuZz/Filmorate](https://github.com/FokuZz/java-filmorate) - backend IMDB-like application.<br>
-[FokuZz/Kanban](https://github.com/FokuZz/java-kanban) - bimple kanban board.
+My latest no commercial: <br>
+- [Explore-with-me](https://github.com/FokuZz/java-explore-with-me) — event guide, microservices
+- [Share-it](https://github.com/FokuZz/java-shareit) — sharing platform
+- [Filmorate](https://github.com/FokuZz/java-filmorate) — IMDB-like backend
 ___
